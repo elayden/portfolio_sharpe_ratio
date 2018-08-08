@@ -1,7 +1,7 @@
 # portfolio_sharpe_ratio
 
 *Info:
-This function optimizes portfolio weights based on Sharpe ratio,
+This Matlab package optimizes portfolio weights based on Sharpe ratio,
 average total return, and volatility (standard deviation of returns). The
 basic idea is to provide a directory as input 'csv_dir'. This folder
 should contain .csv files of historical data for each ticker desired to 
