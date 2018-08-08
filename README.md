@@ -17,7 +17,7 @@ the dimensions of Sharpe ratio, mean annual return, and volatility (SD of
 returns). The function was designed using data from Yahoo Finance
 (https://finance.yahoo.com/) but should work with other data sources
 provided the formatting is similar. Try optimizing the sample portfolio 
-included (with data from 2006-2018) to gain a better understanding of use
+included (with data from 1998-2018) to gain a better understanding of use
 cases.
 
 *Cautionary note: your results may be skewed if your data does not go back
